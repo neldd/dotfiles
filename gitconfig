@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nelsond.yepes@gmail.com
+	name = Nelson Yepes
